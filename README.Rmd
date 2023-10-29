@@ -1,0 +1,20 @@
+# PopulationModelling
+---
+title: "Apparent Competition and Management"
+author: "Beñat Yañez"
+date: "13/10/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+## Goals for this practical
+
+* #### Build a model with 3 trophic levels and aparent competition
+* #### Look at the effect of different management options on the population of wolves, caribou and moose
+
+***
